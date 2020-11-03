@@ -1,11 +1,11 @@
 # qiankun-getting-start
 
-
 The simplest implementation of Micro Frontends,based on qiankun.
+
 ## Installation
 Each of the three projects needs to install dependencies
 ```$xslt
-$ yarn add qiankun  # or npm i qiankun -S
+$ yarn # or npm i
 ```
 
 
